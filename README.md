@@ -23,9 +23,9 @@ Link to layout [https://www.figma.com/file/X8Ke95Xuc9ZXrZJ3DzQjOW/Test-task?node
 It is necessary to make up two pages “List of users” and “User profile”
 #### A list of users:
 
-1.     Display 10 users according to the layout. Get data from [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
-2.     While the list of users is being loaded, there should be a loading indicator (any design at the discretion of the artist)
-3.     Withdraw to the card:
+1. Display 10 users according to the layout. Get data from [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
+2. While the list of users is being loaded, there should be a loading indicator (any design at the discretion of the artist)
+3. Withdraw to the card:
 	- name
 	- address. city
 	- company.name
