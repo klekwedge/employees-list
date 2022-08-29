@@ -2,7 +2,7 @@
 
 User Data [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
 
-Link to layout [https://www.figma.com/file/X8Ke95Xuc9ZXrZJ3DzQjOW/Test-task?node-id=2%3A2](https://www.figma.com/file/X8Ke95Xuc9ZXrZJ3DzQjOW/%D0%A2% D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0 %B8%D0%B5?node-id=2%3A2)
+Link to layout [https://www.figma.com/file/X8Ke95Xuc9ZXrZJ3DzQjOW/Test-task?node-id=2%3A2](https://www.figma.com/file/X8Ke95Xuc9ZXrZJ3DzQjOW/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5?node-id=0%3A1)
 
 ## It is necessary to implement the proposed layout, and write a simple SPA in React 16 using the following tools, technologies and approaches:
 
